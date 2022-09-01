@@ -2,14 +2,14 @@
 
 I'm Juliana! 
 
-Briefly about me:
+A bit about me:
 
 - :seedling: Currently studying for **JS Web Developer** [@SoftUni](https://softuni.bg/)
 - :computer: Interested in becoming a Front-end Developer and eventually a Full Stack one
 - :bulb: Career changer, from Communications and Marketing to Programming
 - :mortar_board: **Bachelor in Public Relations and Advertising**
 - :memo: Proficient in **Bulgarian** and **English**, advanced in **German** and **Portuguese**, basic understanding of **Russian**
-- :hearts: Hobbies: reading, hiking, climbing, yoga, travel, writing, cats, chess, everything nature-related...
+- :hearts: Hobbies: reading, camping, hiking, climbing, yoga, travel, writing, cats, chess, everything nature-related...
 
 <div align="center">* * *</div>
 
