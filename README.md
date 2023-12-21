@@ -4,7 +4,7 @@ I'm Juliana!
 
 A bit about me:
 
-- :seedling: Currently studying for **JS Web Developer** [@SoftUni](https://softuni.bg/)
+- :seedling: A **recent JS Web Developer graduate** from the amazing [@SoftUni](https://softuni.bg/)
 - :computer: Interested in becoming a Front-end Developer and eventually a Full Stack one
 - :bulb: Career changer, from Communications and Marketing to Programming
 - :mortar_board: **Bachelor in Public Relations and Advertising**
