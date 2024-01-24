@@ -4,7 +4,7 @@ I'm Juliana!
 
 A bit about me:
 
-- :seedling: A **recent JavaScript Web Developer graduate** from the amazing [@SoftUni](https://softuni.bg/)
+- :seedling: A **recent JavaScript Web Developer graduate** from the amazing [@SoftUni](https://softuni.bg/) - **>> [Diploma](https://softuni.bg/certificates/details/201777/e70b5c01) <<**
 - :space_invader: Continuing to expand my programming skills and **currently learning Java** 
 - :computer: Interested in becoming a Front-end Developer and eventually a Full Stack one
 - :bulb: Career changer, from Communications and Marketing to Programming
